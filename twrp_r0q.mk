@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/samsung/r0q/device.mk)
 
 PRODUCT_DEVICE := r0q
-PRODUCT_NAME := omni_r0q
+PRODUCT_NAME := twrp_r0q
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-S901N
 PRODUCT_MANUFACTURER := samsung
